@@ -1,0 +1,29 @@
+/* filepath: /C:/laragon/www/tradesphere/client/src/components/admin/layout.css */
+.admin-layout {
+  display: flex;
+}
+
+.admin-nav {
+  width: 200px;
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.admin-nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.admin-nav ul li {
+  margin-bottom: 10px;
+}
+
+.admin-nav ul li a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.admin-content {
+  flex: 1;
+  padding: 20px;
+}
